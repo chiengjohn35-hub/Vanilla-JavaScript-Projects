@@ -4,13 +4,13 @@ This repository conains <b> front-end practice projects built with HTML,CSS and 
 
 
 
-## Why Vanilla Javascript?
+## 🚀 Why Vanilla Javascript?
 As a beginer, I chose to focus on the <b> core front-end fundamentals </b> before moving into frameworks and <b>full-stack development </b>. Learning Vanilla JavaScript helps me understand how DOM works, how interactivity is built, and how JavaScripts behave in the browser-without abstractions.
 This fundation prepares me to confidently move into <b>React.js and Django </b> for full-stack development.
 
 
 
-## My Journey
+## 🌱 My Journey
 
 These Projects document my learning learning progress. They may be small, but each one strengthens my problem-solving skills and understanding of JavaScript Fundamentals. 
 The journey reminds me-and-others-that consistent practice make growth possible.
