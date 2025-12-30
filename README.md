@@ -21,6 +21,8 @@ Notes:
 
 Demo preview (optional)
 - Add a short GIF to show the UI and link it to a playground or deployed demo:
+- [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](<https://vanilla-java-script-projects--chiengbulgai35.replit.app>)
+
 
 ![Demo preview](./docs/demo.gif)
 
