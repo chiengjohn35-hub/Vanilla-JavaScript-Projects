@@ -1,6 +1,6 @@
 
 # Vanilla-JavaScript-Projects
-This reoository conains <b> front-end practice projects built with HTML,CSS and Vanilla Javascript </b>
+This repository conains <b> front-end practice projects built with HTML,CSS and Vanilla Javascript </b>
 
 
 
@@ -37,9 +37,11 @@ If you have questions, open an issue or start a discussion.
 
 Thank you for checking out the project — contributions are welcome via fork & pull request!
 
+---
 
 
-| Project | Live Demo |
+#Projects and live demo
+| Project           | Live Demo            |
 |-------------------------------:|----------------------------:|
 | [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/6e631ba5ce0b9048438bc80b78d2254262c63180/Simple%20Blog%20App)  | [Live Demo](https://vanilla-java-script-projects--chiengbulgai35.replit.app) |
 
