@@ -25,7 +25,7 @@ Demo preview (optional)
 
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  |      [SIMPLE BLOG APP](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/6e631ba5ce0b9048438bc80b78d2254262c63180/Simple%20Blog%20App)       | [<https://vanilla-java-script-projects--chiengbulgai35.replit.app] (https://vanillawebprojects.com/projects/form-validator/)  |
+| 01  |      [SIMPLE BLOG APP](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/6e631ba5ce0b9048438bc80b78d2254262c63180/Simple%20Blog%20App)       | [<https://vanilla-java-script-projects--chiengbulgai35.replit.app]  
 
 
 
