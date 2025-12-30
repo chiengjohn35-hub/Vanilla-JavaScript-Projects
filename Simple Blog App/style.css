@@ -1,0 +1,256 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: sans-serif, Arial;
+    background-color: #f5f5f5f5;
+    color: #333;
+}
+.fheader {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.nav-app {
+    background-color: #4CAF50;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    position: sticky;
+    margin-bottom: 20px;
+    border-radius: 5px  ;
+    text-decoration: none;
+
+}
+.nav {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+   
+}
+.nav, ul, li  {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 10px;
+    float: left;
+    text-decoration: none;
+    color: white;
+}
+.nav ul li:hover{
+    background-color: #c5df2d;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+.nav li a{
+    text-decoration: none;
+    color: white;
+}
+.banner {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+ 
+.main-content {
+    /* max-width: 800px; */
+    margin: 0 auto;
+    padding: 10px 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd ;
+    border-radius: 5px ;
+    font-size: 20px;
+}
+.header2{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.story1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px 20px ;
+    background-color: #e8f5e9 ;
+
+
+}
+.story-p {
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    font-size: 25px;
+}
+
+.divider {
+    height: 1px;
+    background-color: #ddd;
+    margin: 20px 0;
+
+     
+}
+.My-projects {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.project-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px solid black;
+    margin-bottom: 40px;
+}
+.project-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.project-items {
+    width: 200px;
+    height: auto;
+    aspect-ratio: 1/1;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 15px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.project-items img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+
+}
+.project-items a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+.project-items img:hover {
+    transition: transform 0.3s ease;
+    transform: scale(1.05);
+    cursor: pointer;
+}
+.project-items:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+.project-items a:hover{
+    color: #0056b3;
+    text-decoration: underline;
+
+}
+
+
+
+
+.Contact-app {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.contact-form-container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    border-radius: 5px ;
+    margin-top: 20px;
+   
+}
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-form input,
+.contact-form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font: 16px Arial, sans-serif;
+}
+
+.contact-form input:focus, label:focus {
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #4CAF50;
+}
+.contact-form input, label{
+    font-size: 16px;
+}
+
+.button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.button:hover {
+    background-color: #c5df2d;
+    cursor: pointer;
+}
+
+
+
+
+.html {
+    scroll-behavior: smooth;
+
+}
+.back-to-top a{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    transition: background 0.3s, transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+
+}
+.back-to-top:hover {
+    background-color: #c5df2d;
+    color: white;
+    cursor: pointer;
+
+}
+
+.footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #4CAF50;
+    color: white;
+    /* position: fixed; */
+    width: 100%;
+    bottom: 0;
+    border-radius: 5px;
+}
+
