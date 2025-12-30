@@ -19,15 +19,12 @@ Notes:
 - Use relative asset paths (e.g. `./css/style.css`, `./js/app.js`) so the playground serves everything correctly.
 - Remove or hide any secret keys before sharing; these playgrounds run publicly.
 
-Demo preview (optional)
-- Add a short GIF to show the UI and link it to a playground or deployed demo:
-- [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](<https://vanilla-java-script-projects--chiengbulgai35.replit.app>)
 
 | Project | Live Demo |
 |--------:|-----:|
-| [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/simple-blog-app) — view source | [Live Demo](<https://vanilla-java-script-projects--chiengbulgai35.replit.app>/) |
+| [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/simple-blog-app)  | [Live Demo](<https://vanilla-java-script-projects--chiengbulgai35.replit.app>/) |
 | [Todo List](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/todo-list) — view source | [Live Demo](https://<LIVE_DEMO_URL>/) |
-| [Weather Widget](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/weather-widget) — view source | [Live Demo](https://<LIVE_DEMO_URL>/) |
+| [Weather Widget](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/weather-widget)  | [Live Demo](https://<LIVE_DEMO_URL>/) |
 
 
 ![Demo preview](./docs/demo.gif)
