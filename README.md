@@ -26,16 +26,6 @@ The journey reminds me-and-others-that consistent practice make growth possible.
 Prerequisites:
 
 
-## License
-
-Licensed under the MIT License. See LICENSE file for details.
-
-## Contact
-
-Maintainer: @chiengjohn35-hub  
-If you have questions, open an issue or start a discussion.
-
-Thank you for checking out the project — contributions are welcome via fork & pull request!
 
 ---
 
@@ -46,9 +36,18 @@ Thank you for checking out the project — contributions are welcome via fork & 
 | [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/6e631ba5ce0b9048438bc80b78d2254262c63180/Simple%20Blog%20App)  | [Live Demo](https://vanilla-java-script-projects--chiengbulgai35.replit.app) |
 
 
-
-
 ---
+
+## License
+
+Licensed under the MIT License. See LICENSE file for details.
+
+## Contact
+
+Maintainer: @chiengjohn35-hub  
+If you have questions, open an issue or start a discussion.
+
+Thank you for checking out the project — contributions are welcome via fork & pull request!
 
 
 
