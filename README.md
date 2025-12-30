@@ -22,7 +22,7 @@ Notes:
 
 | Project | Live Demo |
 |--------:|-----:|
-| [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/simple-blog-app)  | [Live Demo](<https://vanilla-java-script-projects--chiengbulgai35.replit.app>/) |
+| [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/simple-blog-app)  | [Live Demo](<https://vanilla-java-script-projects--chiengbulgai35.rep.co>/) |
 | [Todo List](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/todo-list) — view source | [Live Demo](https://<LIVE_DEMO_URL>/) |
 | [Weather Widget](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/main/weather-widget)  | [Live Demo](https://<LIVE_DEMO_URL>/) |
 
