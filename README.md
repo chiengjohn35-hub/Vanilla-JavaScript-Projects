@@ -12,7 +12,7 @@ This fundation prepares me to confidently move into <b>React.js and Django </b> 
 
 ## 🌱 My Journey
 
-These Projects document my learning learning progress. They may be small, but each one strengthens my problem-solving skills and understanding of JavaScript Fundamentals. 
+These Projects document my  learning progress. They may be small, but each one strengthens my problem-solving skills and understanding of JavaScript Fundamentals. 
 The journey reminds me-and-others-that consistent practice make growth possible.
 
 
