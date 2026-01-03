@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+     href="http://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap">
+</head>
+<body>
+    <div  class="wrapper">
+        <div id="search-container">
+            <input type="search" 
+            placeholder="Search product name here"
+            id="search-input">
+            <button id="search">Search</button>
+        </div>
+        <div id="buttons">
+            <button class="button-value" onclick="filterProduct('all')">
+                All</button>
+            <button class="button-value" onclick="filterProduct('Jackets')">Jackets</button>
+            <button class="button-value" onclick="filterProduct('Shoes')">Shoes</button>
+            <button class="button-value" onclick="filterProduct('Pens')">Pens</button>
+            <button class="button-value" onclick="filterProduct('T-Shirts')">T-Shirts</button>
+            <button class="button-value" onclick="filterProduct('Books')">Books</button>
+        </div>
+    </div>
+
+    <div id="products">
+        <!-- products will be placed here -->
+    </div>
+
+
+    <footer class="footer">
+        <p>&copy; 2026 Web App. All rights reserved.</p>
+        <p>Project inspired by: <a href="https://www.youtube.com/@CodingArtist">Coding Artist</a></p>
+    </footer>
+
+     <script src="scripts.js" ></script>
+</body>
+
+</html>
