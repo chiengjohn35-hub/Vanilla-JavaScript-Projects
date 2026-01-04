@@ -31,11 +31,11 @@ Prerequisites:
 
 
 # Projects List
-| Project     |       
+| Projects    |       
 |-----------------:    
 | [Simple Blog App](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/6e631ba5ce0b9048438bc80b78d2254262c63180/Simple%20Blog%20App)          |
 | [Project Filter and Search](https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/e039f688c25109f0e6aca5b47cb0b553e5d4ea8d/project%20filter%20and%20Search) |
-| [Counter-Clicker  App](        ) |
+| [Counter-Clicker  App](  https://github.com/chiengjohn35-hub/Vanilla-JavaScript-Projects/tree/2b6880abc35ecaf71873d96579ec6fdfe555e692/Counter-Clicker%20App      ) |
 
 ---
 
